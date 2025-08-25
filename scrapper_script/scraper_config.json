@@ -1,0 +1,10 @@
+{
+  "supabase_url": "https://adksicaabkydtniqbgjr.supabase.co",
+  "supabase_key": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImFka3NpY2FhYmt5ZHRuaXFiZ2pyIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTEzNjI5ODksImV4cCI6MjA2NjkzODk4OX0.M-jLeq_mwjD55OrO4v1sG3NWauDpItIxcxcYbvpTuK0",
+  "admin_id": "f7e9246f-1ee0-4df1-9c74-556086035d75",
+  "server_host": "0.0.0.0",
+  "server_port": "5000",
+  "n8n_webhookC": "http://localhost:5678/webhook/job-completion",
+  "n8n_webhookT": "http://localhost:5678/webhook/webhook-test-connection",
+  "max_results": "5"
+}

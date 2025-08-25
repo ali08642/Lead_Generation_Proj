@@ -1,0 +1,9 @@
+# Core dependencies for GUI application
+flask>=2.0.0
+playwright>=1.30.0
+requests>=2.28.0
+supabase>=2.0.0
+python-dotenv>=1.0.0
+phonenumbers>=8.12.0
+
+# Note: tkinter is included with Python and doesn't need to be installed via pip
